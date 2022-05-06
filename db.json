@@ -1,97 +1,63 @@
 {
-  "posts": [
+  "packets": [
     {
       "id": 1,
-      "title": "delectus aut autem",
-      "author": "Пушкин",
-      "bookType": "plain",
-      "department": "ab",
-      "date": "2022",
-      "completed": false
+      "title": "ГОРСТЬ ЗОЛОТА",
+      "virt_money": "0",
+      "real_money": "100",
+      "grebe": "0",
+      "cost": "69 р.",
+      "code": "real_1",
+      "finish": null
     },
-    {
+     {
       "id": 2,
-      "title": "quis ut nam facilis et officia qui",
-      "author": "Пушкин",
-      "bookType": "cd",
-      "department": "ovo",
-      "date": "2022",
-      "completed": false
+      "title": "ЩЕПОТКА ЗОЛОТА",
+      "virt_money": "0",
+      "real_money": "200",
+      "grebe": "400",
+      "cost": "99 р.",
+      "code": "real_2",
+      "finish": null
     },
-    {
+     {
       "id": 3,
-      "title": "fugiat veniam minus",
-      "author": "Пушкин",
-      "bookType": "plain",
-      "department": "ab",
-      "date": "2022",
-      "completed": true
+      "title": "МЕШОЧЕК ЗОЛОТА",
+      "virt_money": "0",
+      "real_money": "400",
+      "grebe": "0",
+      "cost": "169 р.",
+      "code": "real_3",
+      "finish": null
     },
-    {
-      "id": 4,
-      "title": "et porro tempora",
-      "author": "Иванов",
-      "bookType": "flash",
-      "department": "ovo",
-      "date": "2022",
-      "completed": true
+     {
+      "id": 1001,
+      "title": "АКЦИЯ",
+      "virt_money": "0",
+      "real_money": "1000",
+      "grebe": "0",
+      "cost": "169 р.",
+      "code": "real_3",
+      "finish": 1654514671
     },
-    {
-      "id": 5,
-      "title": "laboriosam mollitia et enim quasi adipisci quia provident illum",
-      "author": "Петров",
-      "bookType": "plain",
-      "department": "do",
-      "date": "2022",
-      "completed": false
-    },
-    {
-      "id": 6,
-      "title": "qui ullam ratione quibusdam voluptatem quia omnis",
-      "author": "Куприн",
-      "bookType": "rdf",
-      "department": "ab",
-      "date": "2022",
-      "completed": false
-    },
-    {
-      "id": 7,
-      "title": "illo expedita consequatur quia in",
-      "author": "Пушкин",
-      "bookType": "cd",
-      "department": "ab",
-      "date": "2022",
-      "completed": false
-    },
-    {
-      "id": 8,
-      "title": "quo adipisci enim quam ut ab",
-      "author": "Пушкин",
-      "bookType": "plain",
-      "department": "ovo",
-      "date": "2022",
-      "completed": true
-    },
-    {
-      "id": 9,
-      "title": "molestiae perspiciatis ipsa",
-      "author": "Пушкин9",
-      "bookType": "cd",
-      "department": "ab",
-      "date": "2022",
-      "completed": false
-    },
-    {
-      "id": 10,
-      "title": "illo est ratione doloremque quia maiores aut",
-      "author": "Кедрин",
-      "bookType": "cd",
-      "department": "ovo",
-      "date": "2022",
-      "completed": true
+     {
+      "id": 2001,
+      "title": "ЗОЛОТОЙ БИЛЕТ",
+      "virt_money": "0",
+      "real_money": "0",
+      "grebe": "0",
+      "cost": "169 р.",
+      "code": "ticket",
+      "finish": 1654514671
     }
   ],
   "profile": {
-    "name": "typicode"
+    "pid": 12345,
+    "level": 22,
+    "nickname": "Arctg",
+    "clan_level": 1,
+    "clan_title": "Мой клан",
+    "clan_flag": 12345,
+    "clan_status": "Староста"
   }
 }
