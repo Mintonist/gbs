@@ -15,7 +15,7 @@
       "title": "ЩЕПОТКА ЗОЛОТА",
       "virt_money": "0",
       "real_money": "200",
-      "grebe": "400",
+      "grebe": "0",
       "cost": "99 р.",
       "code": "real_2",
       "finish": null
@@ -30,13 +30,33 @@
       "code": "real_3",
       "finish": null
     },
+    {
+      "id": 4,
+      "title": "СЕРЕБРО",
+      "virt_money": "10000",
+      "real_money": "0",
+      "grebe": "0",
+      "cost": "99 р.",
+      "code": "real_2",
+      "finish": null
+    },
+     {
+      "id": 5,
+      "title": "МУХОМОРЧИКИ",
+      "virt_money": "0",
+      "real_money": "0",
+      "grebe": "20",
+      "cost": "149 р.",
+      "code": "real_3",
+      "finish": null
+    },
      {
       "id": 1001,
       "title": "АКЦИЯ",
       "virt_money": "0",
       "real_money": "1000",
       "grebe": "0",
-      "cost": "169 р.",
+      "cost": "119 р.",
       "code": "real_3",
       "finish": 1654514671
     },
