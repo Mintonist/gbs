@@ -72,12 +72,12 @@
     }
   ],
   "profile": {
-    "pid": 12345,
+    "pid": 290,
     "level": 22,
     "nickname": "Arctg",
     "clan_level": 1,
     "clan_title": "Мой клан",
-    "clan_flag": 12345,
+    "clan_flag": 12,
     "clan_status": "Староста"
   }
 }
