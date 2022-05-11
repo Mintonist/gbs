@@ -37,7 +37,7 @@
       "real_money": "0",
       "grebe": "0",
       "cost": "99 р.",
-      "code": "real_2",
+      "code": "virt_2",
       "finish": null
     },
      {
@@ -47,7 +47,7 @@
       "real_money": "0",
       "grebe": "20",
       "cost": "149 р.",
-      "code": "real_3",
+      "code": "grebe_3",
       "finish": null
     },
      {
