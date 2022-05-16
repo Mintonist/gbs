@@ -74,6 +74,7 @@
   "profile": [
     {
       "id": 1000,
+      "pid": 1000,
       "level": 22,
       "nickname": "Arctg",
       "clan_level": 1,
@@ -83,6 +84,7 @@
     },
     {
       "id": 1001,
+      "pid": 1001,
       "level": 8,
       "nickname": "Грибник99",
       "clan_level": 1,
@@ -92,6 +94,7 @@
     },
     {
       "id": 1002,
+      "pid": 1002,
       "level": 1,
       "nickname": "Santa"  
     }
