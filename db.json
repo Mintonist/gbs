@@ -72,12 +72,26 @@
     }
   ],
   "profile": {
-    "pid": 290,
+    "id": 1000,
     "level": 22,
     "nickname": "Arctg",
     "clan_level": 1,
     "clan_title": "Мой клан",
     "clan_flag": 12,
     "clan_status": "Староста"
+  },
+  {
+    "id": 1001,
+    "level": 8,
+    "nickname": "Грибник99",
+    "clan_level": 1,
+    "clan_title": "Грибочище!",
+    "clan_flag": 13,
+    "clan_status": "Участник"
+  },
+{
+    "id": 1002,
+    "level": 1,
+    "nickname": "Santa",   
   }
 }
